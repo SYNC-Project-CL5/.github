@@ -1,6 +1,5 @@
 ## Hi there 👋
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-<img alt="Python" src ="https://img.shields.io/badge/javascript-F7dF1E.svg?&style=for-the-badge&logo=javascript&logoColor=Yellow"/>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Python" src ="https://img.shields.io/badge/javascript-F7dF1E.svg?&style=for-the-badge&logo=javascript&logoColor=Whire"/>
 
 <a href="https://youtu.be/HWOsBlJr9Mk?si=4ctQcAhAwBQbaV5S" target="_blank"><img src="https://img.shields.io/badge/youtubestudio-FFFFFF?style=plastic&logo=로고&logoColor=로고색상"/></a>
 <!--
