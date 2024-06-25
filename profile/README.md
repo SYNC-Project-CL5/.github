@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <br>
 
-  <img alt="ABAP" src="https://raw.githubusercontent.com/github/explore/339de3fa1bceb3fe3eda8c8220bccc706057203f/topics/abap/abap.png" style="height: 50px; background-color: #87CEEB;">
+  <img alt="ABAP" src="https://raw.githubusercontent.com/github/explore/339de3fa1bceb3fe3eda8c8220bccc706057203f/topics/abap/abap.png" style="height: 70px; background-color: #87CEEB;">
   <br>
   
   <img alt="HANA DB" src="https://dbdb.io/media/logos/hana.png" style="height: 30px; background-color: #87CEEB;">
