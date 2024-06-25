@@ -1,5 +1,4 @@
-## 안녕하세요. 암쏘타이어입니다. 👋 <a href="https://youtu.be/HWOsBlJr9Mk?si=_cRmEfF53j4y4sk9" target="_blank">
-  <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube" style="height: 25px;">
+## 안녕하세요. 암쏘타이어입니다. 👋 <a href="https://youtu.be/HWOsBlJr9Mk?si=_cRmEfF53j4y4sk9" target="_blank"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube" style="height: 25px;">
 
 <a href="https://ibb.co/fXfMqJ7"><img src="https://i.ibb.co/BfbLckR/3.png" alt="3" border="0" style="height: 100px;">
 <br>
