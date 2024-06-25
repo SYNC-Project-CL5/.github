@@ -5,7 +5,7 @@
 <a href="https://ibb.co/fXfMqJ7"><img src="https://i.ibb.co/bJ69sdn/3.png" alt="3" border="0" style="height: 100px;">
 <br>
 
-<div style="border: 2px solid #F77623; border-radius: 8px; overflow-x: auto;">
+<div style="border: 2px solid #F77623; border-radius: 8px; overflow-x: auto;" align=center>
   
   | 이름(직책, 담당 모듈) | 대표 ABPA 프로그램 | UI5 프로그램 |
   |:------------------:|:------------------|:------------|
