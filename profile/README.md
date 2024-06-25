@@ -1,4 +1,4 @@
-## 안녕하세요. 암쏘타이어입니다. 👋🛞
+## 안녕하세요. 암쏘타이어입니다. 👋
 
 <a href="https://ibb.co/fXfMqJ7"><img src="https://i.ibb.co/BfbLckR/3.png" alt="3" border="0" style="height: 100px;">
 <br>
