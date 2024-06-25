@@ -1,6 +1,10 @@
 ## Hi there 👋
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube)](https://youtu.be/HWOsBlJr9Mk?si=_cRmEfF53j4y4sk9)
-[![Sync Badge](https://img.shields.io/badge/→%20SYNC%204기%205반%201조__암쏘타이어%20시연%20영상%20(대상)-FFA500?style=flat-square)](https://youtu.be/HWOsBlJr9Mk?si=_cRmEfF53j4y4sk9)
+<a href="https://youtu.be/HWOsBlJr9Mk?si=_cRmEfF53j4y4sk9" target="_blank">
+  <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube" style="height: 40px;">
+</a>
+<a href="https://youtu.be/HWOsBlJr9Mk?si=_cRmEfF53j4y4sk9" target="_blank">
+  <img src="https://img.shields.io/badge/→%20SYNC%204기%205반%201조__암쏘타이어%20시연%20영상%20(대상)-FFA500?style=flat-square" style="height: 40px;">
+</a>
 
 
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
