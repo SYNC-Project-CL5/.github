@@ -26,7 +26,7 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="64" height="64" style="background-color:white;">
   <br>
 
-  ![SYNC-Project-CL5's GitHub stats](https://github.com/SYNC-Project-CL5/.github)
+
 
 
   
