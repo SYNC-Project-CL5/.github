@@ -26,7 +26,7 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="64" height="64" style="background-color:white;">
   <br>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/SYNC-Project-CL5)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SYNC-Project-CL5)](https://github.com/SYNC-Project-CL5)
 
   
 </div>
