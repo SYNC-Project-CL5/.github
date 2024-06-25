@@ -17,14 +17,11 @@
   |**김예리<br>(FI)**|⚬ [FI] 손익계산서<br>⚬ [FI] 환차손익 산출<br>⚬ [FI] 공급사 별 A/P 인식 함수<br>⚬ [FI] 자재 이동에 따른 자산 증가 인식 함수|⚬ [B2B] USD 환율 그래프<br>⚬ [B2B] 손익계산서<br>|
 
 
-
-
-
-
-
-
-
-
+  <br>
+  <br>
+  <br>
+  <br>
+  
 <div align=center><h1>🖥️Tech. Stacks🖥️</h1></div>
 
 <div align=center> 
