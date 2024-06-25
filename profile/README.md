@@ -4,9 +4,9 @@
 <br>
 
 
-<div align=center><h1>🖥️Tech. Stacks🖥️</h1></div>
+<div align=left><h1>🖥️Tech. Stacks🖥️</h1></div>
 
-<div align=center> 
+<div align=left> 
   <img alt="UI5" src="https://raw.githubusercontent.com/SAP/ui5-tooling/main/docs/images/UI5_logo_wide.png" style="height: 30px; background-color: #87CEEB;">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
