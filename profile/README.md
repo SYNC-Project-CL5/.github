@@ -2,7 +2,7 @@
 
 ## 안녕하세요. 암쏘타이어입니다. <a href="https://youtu.be/HWOsBlJr9Mk?si=_cRmEfF53j4y4sk9" target="_blank"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube" style="height: 25px;">
 
-<a href="https://ibb.co/fXfMqJ7"><img src="https://i.ibb.co/BfbLckR/3.png" alt="3" border="0" style="height: 100px;">
+<a href="https://ibb.co/fXfMqJ7"><img src="https://i.ibb.co/bJ69sdn/3.png" alt="3" border="0" style="height: 100px;">
 <br>
 
 |이름(직책, 담당 모듈)|대표 ABPA 개발 프로그램|UI5 프로그램|
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <br>
 
-  <img alt="ABAP" src="https://raw.githubusercontent.com/github/explore/339de3fa1bceb3fe3eda8c8220bccc706057203f/topics/abap/abap.png: 30px; background-color: #87CEEB;">
+  <img alt="ABAP" src="https://raw.githubusercontent.com/github/explore/339de3fa1bceb3fe3eda8c8220bccc706057203f/topics/abap/abap.png" style="height: 30px; background-color: #87CEEB;">
   <br>
   
   <img alt="HANA DB" src="https://dbdb.io/media/logos/hana.png" style="height: 30px; background-color: #87CEEB;">
