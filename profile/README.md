@@ -1,11 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDC830,10:F9B94D,30:F89D3B,75:F97C00,100:F77623&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 ## 안녕하세요. 암쏘타이어입니다. <a href="https://youtu.be/HWOsBlJr9Mk?si=_cRmEfF53j4y4sk9" target="_blank"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat&logo=youtube" style="height: 30px;">
-
+<div style="border: 2px solid #F77623; border-radius: 8px; overflow-x: auto;" align=center>
 <a href="https://ibb.co/fXfMqJ7"><img src="https://i.ibb.co/bJ69sdn/3.png" alt="3" border="0" style="height: 100px;">
 <br>
 
-<div style="border: 2px solid #F77623; border-radius: 8px; overflow-x: auto;" align=center>
+
   
   | 이름(직책, 담당 모듈) | 대표 ABPA 프로그램 | UI5 프로그램 |
   |:------------------:|:------------------|:------------|
