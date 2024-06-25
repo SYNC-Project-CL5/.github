@@ -3,10 +3,10 @@
 <a href="https://ibb.co/fXfMqJ7"><img src="https://i.ibb.co/BfbLckR/3.png" alt="3" border="0">
 
 <a href="https://youtu.be/HWOsBlJr9Mk?si=_cRmEfF53j4y4sk9" target="_blank">
-  <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube" style="height: 40px;">
+  <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube" style="height: 20px;">
 </a>
 <a href="https://youtu.be/HWOsBlJr9Mk?si=_cRmEfF53j4y4sk9" target="_blank">
-  <img src="https://img.shields.io/badge/→%20SYNC%204기%205반%201조__암쏘타이어%20시연%20영상%20(대상)-FFA500?style=flat-square" style="height: 40px;">
+  <img src="https://img.shields.io/badge/→%20SYNC%204기%205반%201조__암쏘타이어%20시연%20영상%20(대상)-FFA500?style=flat-square" style="height: 20px;">
 </a>
 
 개발 간 사용한 언어 리스트는 아래와 같습니다.
