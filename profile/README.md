@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="64" height="64" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="64" height="64" style="background-color: white;">
   <br>
   
 </div>
