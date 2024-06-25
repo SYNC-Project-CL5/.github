@@ -4,7 +4,7 @@
 <br>
 
 
-<div align=left><h1>🖥️Tech. Stacks🖥️</h1></div>
+<div align=center><h1>🖥️Tech. Stacks🖥️</h1></div>
 
 <div align=center> 
   <img alt="UI5" src="https://raw.githubusercontent.com/SAP/ui5-tooling/main/docs/images/UI5_logo_wide.png" style="height: 30px; background-color: #87CEEB;">
