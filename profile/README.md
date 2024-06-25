@@ -7,7 +7,7 @@
 
 |이름(직책, 담당 모듈)|ABPA 개발 프로그램|UI5 프로그램|
   |:---|:---:|:---:|
-  |**김건우 (Project Manager, PP)**|* 1 <br> *1|중앙정렬|
+  |**김건우 (Project Manager, SCM)**|✔️[PP] 생산 계획 생성<br> ✔️[PP] 생산 계획 생성|중앙정렬|
   |**이세영 (Consultant Leader, FI)**|오른쪽정렬|중앙정렬|
   |**조병석 (Project Leader, PP)**|오른쪽정렬|중앙정렬|
   |**박지영 (UI/UX Leader, SD)**|오른쪽정렬|중앙정렬|
