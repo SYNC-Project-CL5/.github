@@ -10,7 +10,7 @@
 개발 간 사용한 언어 리스트는 아래와 같습니다.
 <br>
 <img alt="ABAP" src="https://raw.githubusercontent.com/github/explore/339de3fa1bceb3fe3eda8c8220bccc706057203f/topics/abap/abap.png" style="height: 30px; background-color: #87CEEB;"> ABAP
-<img alt="ABAP" src="https://raw.githubusercontent.com/SAP/ui5-tooling/main/docs/images/UI5_logo_wide.png" style="height: 30px; background-color: #87CEEB;"> UI5
+
 
 
 
