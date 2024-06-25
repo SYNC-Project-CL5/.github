@@ -11,8 +11,9 @@
 <br>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/UI5-0C4C8A?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/ABAP-0A5C8C?style=for-the-badge&logoColor=white"/>
+<img alt="ABAP" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fabap%3Fl%3Dhtml&psig=AOvVaw1FGhFxWpbIZ2gHUvoHSO82&ust=1719373286258000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCND0iOPq9YYDFQAAAAAdAAAAABAE" style="height: 30px; background-color: white;">
+<img alt="ABAP" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fabap%3Fl%3Dhtml&psig=AOvVaw1FGhFxWpbIZ2gHUvoHSO82&ust=1719373286258000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCND0iOPq9YYDFQAAAAAdAAAAABAE" style="height: 30px; background-color: white;">
+
 
 
 
