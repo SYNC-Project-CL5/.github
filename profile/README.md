@@ -7,7 +7,7 @@
 
 |이름(직책, 담당 모듈)|대표 ABPA 프로그램|UI5 프로그램|
   |:---:|:---|:---|
-  |**김건우[![GUNRAIN](https://img.shields.io/badge/GUNRAIN-181717?style=for-the-badge&logo=github)](https://github.com/gunwoo2)<br>(Project Manager, SCM)**|⚬ [PP] 생산 계획 생성<br>⚬ [PP] 생산 검수 및 입고<br>⚬ [SD] 출고문서 생성 지시<br>⚬ [MM] 재고 이전|⚬ [B2C] 판매사이트 Portal<br>⚬ [B2C] 직영점 조회(네이버 API)<br>⚬ [B2C] 주문내역 로그인<br>⚬ [B2C] 주문내역 확인<br>⚬ [B2B] 배치 QR 동적 조회<br>⚬ [B2B] 자동화된 배치번호 QR 생성<br>⚬ [B2B] 생산실적 차트조회<br>⚬ [B2B] AI 기반 수요예측 모델 생성기<br>⚬ [B2B] 기계학습(XGBoost) 기반 수요예측<br>|
+  |**김건우<br>(Project Manager, SCM)<br>[![GUNRAIN](https://img.shields.io/badge/GUNRAIN-FFFFFF?style=for-the-badge&logo=github)](https://github.com/gunwoo2)**|⚬ [PP] 생산 계획 생성<br>⚬ [PP] 생산 검수 및 입고<br>⚬ [SD] 출고문서 생성 지시<br>⚬ [MM] 재고 이전|⚬ [B2C] 판매사이트 Portal<br>⚬ [B2C] 직영점 조회(네이버 API)<br>⚬ [B2C] 주문내역 로그인<br>⚬ [B2C] 주문내역 확인<br>⚬ [B2B] 배치 QR 동적 조회<br>⚬ [B2B] 자동화된 배치번호 QR 생성<br>⚬ [B2B] 생산실적 차트조회<br>⚬ [B2B] AI 기반 수요예측 모델 생성기<br>⚬ [B2B] 기계학습(XGBoost) 기반 수요예측<br>|
   |**이세영<br>(Consultant Leader, FI)**|⚬ [FI] A/P 지급처리<br>⚬ [FI] 대차대조표<br>⚬ [FI] 완제품 및 원재료 증감인식 함수<br>⚬ [FI] A/P(매입채무) 반제 및 환차손익 인식 함수|⚬ [B2B] 매출채권 차트<br>⚬ [B2B] 재고이전 결재<br>|
   |**조병석<br>(Project Leader, PP)**|⚬ [PP] MRP<br>⚬ [PP] 공정관리<br>⚬ [PP] 생산오더 생성/승인<br>⚬ [PP] BOM 관리|⚬ [B2C] 예약프로그램<br>⚬ [B2B] 생산계획(flexible)<br>⚬ [B2B] 생산오더 조회<br>|
   |**박지영<br>(UI/UX Leader, SD)**|⚬ [SD] 판매운영계획 생성<br>⚬ [SD] 판매 오더 생성<br>⚬ [SD] 자동화 출고지시 Batch<br>⚬ [SD] 여신 관리|⚬ [B2B] 기업용 Portal<br>⚬ [B2B] 판매실적 조회<br>|
