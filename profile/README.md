@@ -11,7 +11,7 @@
 <br>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
-<img src="[https://img.shields.io/badge/UI5](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsap.github.io%2Fui5-tooling%2Fv3%2F&psig=AOvVaw25_UmOiAvK9RoFZlQUsmma&ust=1719373221021000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNiovsLq9YYDFQAAAAAdAAAAABAE)-000000?style=for-the-badge&logo=SAP&logoColor=white"/>
+<img src="https://raw.githubusercontent.com/github/explore/339de3fa1bceb3fe3eda8c8220bccc706057203f/topics/abap/abap.png-000000?style=for-the-badge&logo=SAP&logoColor=white"/>
 <img src="https://img.shields.io/badge/ABAP-000000?style=for-the-badge&logo=SAP&logoColor=white"/>
 
 
