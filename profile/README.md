@@ -5,7 +5,7 @@
 <a href="https://ibb.co/fXfMqJ7"><img src="https://i.ibb.co/BfbLckR/3.png" alt="3" border="0" style="height: 100px;">
 <br>
 
-|이름(직책, 담당 모듈)|ABPA 개발 프로그램|UI5 프로그램|
+|이름(직책, 담당 모듈)|:ABPA 개발 프로그램:|UI5 프로그램|
   |:---:|:---|:---:|
   |**김건우<br>(Project Manager, SCM)**|✔️[PP] 생산 계획 생성<br>✔️[PP] 생산 검수 및 입고<br>✔️[SD] 출고문서 생성 지시<br>✔️[MM] 재고 이전|중앙정렬|
   |**이세영<br>(Consultant Leader, FI)**|✔️[FI] A/P 지급처리<br>✔️[FI] 대차대조표<br>✔️[FI] 완제품 및 원재료 증감인식 함수<br>✔️[FI] A/P(매입채무) 반제 및 환차손익 인식 함수|중앙정렬|
