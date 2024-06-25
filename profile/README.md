@@ -17,8 +17,6 @@
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 
-<img src="https://i.ibb.co/JsYwSKV/4.png" alt="4" style="height: 150px;">
-
 
 
 
