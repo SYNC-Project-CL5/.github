@@ -26,10 +26,10 @@
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="64" height="64" style="background-color:white;">
   <br>
 
+</div>
 
-
-
-  
+<div aliign=center>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunwoo2&show_icons=true&theme=radical)
 </div>
 
 
