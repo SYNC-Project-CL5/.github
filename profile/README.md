@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fdc830,10:DA5B0B,30:C6538C,75:3572A5,100:f37335&height=100&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F9D15C,10:F9B94D,30:F89D3B,75:F97C00,100:F77623&height=100&section=header&text=&fontSize=0" width="100%"/>
 
 ## 안녕하세요. 암쏘타이어입니다. <a href="https://youtu.be/HWOsBlJr9Mk?si=_cRmEfF53j4y4sk9" target="_blank"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube" style="height: 25px;">
 
