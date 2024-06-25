@@ -1,6 +1,4 @@
-<a href="https://ibb.co/LZTXs8m">
-  <img src="https://i.ibb.co/JsYwSKV/4.png" alt="4" style="height: 50px;" border="0">
-</a> 안녕하세요. 암쏘타이어입니다. 👋
+## 안녕하세요. 암쏘타이어입니다. 👋
 
 <a href="https://youtu.be/HWOsBlJr9Mk?si=_cRmEfF53j4y4sk9" target="_blank">
   <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube" style="height: 40px;">
